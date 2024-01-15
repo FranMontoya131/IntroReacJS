@@ -1,6 +1,6 @@
 function TodoSearch() {
     return (
-        <input placeholder="Subir la rama desarrollo" />
+        <input placeholder="Buscar" />
     )
 }
 
