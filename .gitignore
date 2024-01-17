@@ -25,3 +25,4 @@ yarn-error.log*
 # vscode
 .vscode
 IntroReacJS.code-workspace
+WORKSPACE.code-workspace
